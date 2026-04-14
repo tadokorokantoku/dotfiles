@@ -1,0 +1,8 @@
+# Dotfiles 用の共有 Git 設定
+# ~/.gitconfig に次を追加して読み込んでください:
+#
+#   [include]
+#       path = ~/.dotfiles/git/gitconfig
+
+[alias]
+	rsh = reset --soft HEAD^
