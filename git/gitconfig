@@ -6,3 +6,4 @@
 
 [alias]
 	rsh = reset --soft HEAD^
+	fs = flow feature start
