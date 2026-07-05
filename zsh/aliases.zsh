@@ -38,3 +38,6 @@ alias device='adb devices'
 alias ccd="claude --dangerously-skip-permissions"
 alias hd="herdr"
 alias hdr="herdr server reload-config"
+
+# General
+alias sz="source ~/.zshrc"
