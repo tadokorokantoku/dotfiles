@@ -36,3 +36,5 @@ alias device='adb devices'
 
 # Tools
 alias ccd="claude --dangerously-skip-permissions"
+alias hd="herhr"
+alias hdr="herdr server reload-config"
